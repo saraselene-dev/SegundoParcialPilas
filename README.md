@@ -11,5 +11,8 @@ El sistema debe permitir las siguientes acciones:
 3.	Consultar cuál es el último libro registrado usando peek(). 
 4.	Mostrar todos los libros almacenados.
 
+## Funcionalidades
+ El desarrollo también permite eliminar libros por su ISBN.
+
 ## Autor
 Sara Selene Urrego Jiménez 
